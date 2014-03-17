@@ -1,9 +1,3 @@
-require 'sinatra'
-
-get '/' do 
-  "Hello, sudoku"
-end
-
 class Sudoku
   
   COLUMN_SIZE = 9

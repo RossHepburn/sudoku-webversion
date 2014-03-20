@@ -1,8 +1,11 @@
 require 'sinatra'
+require 'sinatra/partial' 
+
 require_relative './lib/sudoku'
 require_relative './lib/cell'
-require './helpers/application.rb'
+require_relative './helpers/application.rb'
 
+set :partial_template_engine, :erb
 enable :sessions
 
 def random_sudoku

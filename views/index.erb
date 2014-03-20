@@ -5,8 +5,11 @@
   <link href="/stylesheets/application.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-<h1>Life is too short for playing Sudoku</h1>
-<div id="sudoku">
+<h1>Life is too short for playing Sudoku</h1>  
+	<div id="flash">
+  	<%= flash[:notice] %>
+	</div>
+	<div id="sudoku">
 	<form action="/" method="post">
   <!-- one div for each row -->
   <% 3.times do |row| %>

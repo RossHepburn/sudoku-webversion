@@ -12,6 +12,10 @@ body {
   font-family: Arial;
 }
 
+#flash {
+  margin: 20px;
+}
+
 #sudoku {
 	font-size: 0;
 	text-align: center;

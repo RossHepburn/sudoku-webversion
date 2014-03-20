@@ -16,3 +16,11 @@ body {
 	font-size: 0;
 	text-align: center;
 }
+
+.incorrect {
+  background-color: yellow;
+}
+
+.value-provided {
+  background-color: #DDD;
+}

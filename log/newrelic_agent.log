@@ -480,3 +480,497 @@
 [03/21/14 15:55:20 +0000 JRLHMPR13.local (3005)] INFO : Installing deferred Rack instrumentation
 [03/21/14 15:55:20 +0000 JRLHMPR13.local (3005)] INFO : Finished instrumentation
 [03/21/14 15:55:20 +0000 JRLHMPR13.local (3005)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : Enabling the Request Sampler.
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : Environment: development
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : Dispatcher: webrick
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : Application: My Application
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] WARN : Agent configured not to send data in this environment.
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : Installing Net instrumentation
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : Installing Sinatra instrumentation
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : Installing deferred Rack instrumentation
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : Finished instrumentation
+[03/21/14 17:10:06 +0000 JRLHMPR13.local (3161)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : Enabling the Request Sampler.
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : Environment: development
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : Dispatcher: webrick
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : Application: My Application
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] WARN : Agent configured not to send data in this environment.
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : Installing Net instrumentation
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : Installing Sinatra instrumentation
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : Installing deferred Rack instrumentation
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : Finished instrumentation
+[03/21/14 17:10:24 +0000 JRLHMPR13.local (3165)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : Enabling the Request Sampler.
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : Environment: development
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : Dispatcher: webrick
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : Application: My Application
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] WARN : Agent configured not to send data in this environment.
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : Installing Net instrumentation
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : Installing Sinatra instrumentation
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : Installing deferred Rack instrumentation
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : Finished instrumentation
+[03/21/14 17:10:25 +0000 JRLHMPR13.local (3168)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : Enabling the Request Sampler.
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : Environment: development
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : Dispatcher: webrick
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : Application: My Application
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] WARN : Agent configured not to send data in this environment.
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : Installing Net instrumentation
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : Installing Sinatra instrumentation
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : Installing deferred Rack instrumentation
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : Finished instrumentation
+[03/21/14 17:10:31 +0000 JRLHMPR13.local (3171)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : Enabling the Request Sampler.
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : Environment: development
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : Dispatcher: webrick
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : Application: My Application
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] WARN : Agent configured not to send data in this environment.
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : Installing Net instrumentation
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : Installing Sinatra instrumentation
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : Installing deferred Rack instrumentation
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : Finished instrumentation
+[03/21/14 17:36:23 +0000 JRLHMPR13.local (3275)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : Enabling the Request Sampler.
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : Environment: development
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : Dispatcher: webrick
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : Application: My Application
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] WARN : Agent configured not to send data in this environment.
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : Installing Net instrumentation
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : Installing Sinatra instrumentation
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : Installing deferred Rack instrumentation
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : Finished instrumentation
+[03/21/14 17:41:01 +0000 JRLHMPR13.local (3288)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : Enabling the Request Sampler.
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : Environment: development
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : Dispatcher: webrick
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : Application: My Application
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] WARN : Agent configured not to send data in this environment.
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : Installing Net instrumentation
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : Installing Sinatra instrumentation
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : Installing deferred Rack instrumentation
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : Finished instrumentation
+[03/21/14 17:42:35 +0000 JRLHMPR13.local (3295)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : Enabling the Request Sampler.
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : Environment: development
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : Dispatcher: webrick
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : Application: My Application
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] WARN : Agent configured not to send data in this environment.
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : Installing Net instrumentation
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : Installing Sinatra instrumentation
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : Installing deferred Rack instrumentation
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : Finished instrumentation
+[03/21/14 17:44:49 +0000 JRLHMPR13.local (3300)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : Enabling the Request Sampler.
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : Environment: development
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : Dispatcher: webrick
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : Application: My Application
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] WARN : Agent configured not to send data in this environment.
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : Installing Net instrumentation
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : Installing Sinatra instrumentation
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : Installing deferred Rack instrumentation
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : Finished instrumentation
+[03/21/14 17:45:09 +0000 JRLHMPR13.local (3305)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : Enabling the Request Sampler.
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : Environment: development
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : Dispatcher: webrick
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : Application: My Application
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] WARN : Agent configured not to send data in this environment.
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : Installing Net instrumentation
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : Installing Sinatra instrumentation
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : Installing deferred Rack instrumentation
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : Finished instrumentation
+[03/21/14 17:45:29 +0000 JRLHMPR13.local (3309)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : Enabling the Request Sampler.
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : Environment: development
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : Dispatcher: webrick
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : Application: My Application
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] WARN : Agent configured not to send data in this environment.
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : Installing Net instrumentation
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : Installing Sinatra instrumentation
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : Installing deferred Rack instrumentation
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : Finished instrumentation
+[03/21/14 17:47:35 +0000 JRLHMPR13.local (3316)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : Enabling the Request Sampler.
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : Environment: development
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : Dispatcher: webrick
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : Application: My Application
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : Installing Net instrumentation
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : Finished instrumentation
+[03/21/14 18:08:03 +0000 JRLHMPR13.local (3371)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : Enabling the Request Sampler.
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : Environment: development
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : Dispatcher: webrick
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : Application: My Application
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : Installing Net instrumentation
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : Finished instrumentation
+[03/21/14 18:08:07 +0000 JRLHMPR13.local (3375)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : Enabling the Request Sampler.
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : Environment: development
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : Dispatcher: webrick
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : Application: My Application
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : Installing Net instrumentation
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : Finished instrumentation
+[03/21/14 18:08:08 +0000 JRLHMPR13.local (3378)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : Enabling the Request Sampler.
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : Environment: development
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : Dispatcher: webrick
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : Application: My Application
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : Installing Net instrumentation
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : Finished instrumentation
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3382)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3385)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3385)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3385)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3385)] INFO : Enabling the Request Sampler.
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3385)] INFO : Environment: development
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3385)] INFO : Dispatcher: webrick
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3385)] INFO : Application: My Application
+[03/21/14 18:08:12 +0000 JRLHMPR13.local (3385)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:08:13 +0000 JRLHMPR13.local (3385)] INFO : Installing Net instrumentation
+[03/21/14 18:08:13 +0000 JRLHMPR13.local (3385)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:08:13 +0000 JRLHMPR13.local (3385)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:08:13 +0000 JRLHMPR13.local (3385)] INFO : Finished instrumentation
+[03/21/14 18:08:13 +0000 JRLHMPR13.local (3385)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : Enabling the Request Sampler.
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : Environment: development
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : Dispatcher: webrick
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : Application: My Application
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : Installing Net instrumentation
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : Finished instrumentation
+[03/21/14 18:08:15 +0000 JRLHMPR13.local (3388)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : Enabling the Request Sampler.
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : Environment: development
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : Dispatcher: webrick
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : Application: My Application
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : Installing Net instrumentation
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : Finished instrumentation
+[03/21/14 18:08:16 +0000 JRLHMPR13.local (3391)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : Enabling the Request Sampler.
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : Environment: development
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : Dispatcher: webrick
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : Application: My Application
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : Installing Net instrumentation
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : Finished instrumentation
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3405)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : Enabling the Request Sampler.
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : Environment: development
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : Dispatcher: webrick
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : Application: My Application
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : Installing Net instrumentation
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : Finished instrumentation
+[03/21/14 18:09:32 +0000 JRLHMPR13.local (3408)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : Enabling the Request Sampler.
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : Environment: development
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : Dispatcher: webrick
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : Application: My Application
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : Installing Net instrumentation
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : Finished instrumentation
+[03/21/14 18:09:35 +0000 JRLHMPR13.local (3411)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : Enabling the Request Sampler.
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : Environment: development
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : Dispatcher: webrick
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : Application: My Application
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : Installing Net instrumentation
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : Finished instrumentation
+[03/21/14 18:09:36 +0000 JRLHMPR13.local (3414)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : Enabling the Request Sampler.
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : Environment: development
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : Dispatcher: webrick
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : Application: My Application
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : Installing Net instrumentation
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : Finished instrumentation
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3417)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : Enabling the Request Sampler.
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : Environment: development
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : Dispatcher: webrick
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : Application: My Application
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : Installing Net instrumentation
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : Finished instrumentation
+[03/21/14 18:09:38 +0000 JRLHMPR13.local (3420)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : Enabling the Request Sampler.
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : Environment: development
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : Dispatcher: webrick
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : Application: My Application
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : Installing Net instrumentation
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : Finished instrumentation
+[03/21/14 18:10:09 +0000 JRLHMPR13.local (3424)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : Enabling the Request Sampler.
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : Environment: development
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : Dispatcher: webrick
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : Application: My Application
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : Installing Net instrumentation
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : Finished instrumentation
+[03/21/14 18:24:44 +0000 JRLHMPR13.local (3447)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : Enabling the Request Sampler.
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : Environment: development
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : Dispatcher: webrick
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : Application: My Application
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : Installing Net instrumentation
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : Finished instrumentation
+[03/21/14 18:25:49 +0000 JRLHMPR13.local (3454)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : Enabling the Request Sampler.
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : Environment: development
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : Dispatcher: webrick
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : Application: My Application
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : Installing Net instrumentation
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : Finished instrumentation
+[03/21/14 18:26:47 +0000 JRLHMPR13.local (3459)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : Enabling the Request Sampler.
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : Environment: development
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : Dispatcher: webrick
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : Application: My Application
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : Installing Net instrumentation
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : Finished instrumentation
+[03/21/14 18:27:46 +0000 JRLHMPR13.local (3465)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:29:15 +0000 JRLHMPR13.local (3470)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:29:15 +0000 JRLHMPR13.local (3470)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:29:15 +0000 JRLHMPR13.local (3470)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:29:15 +0000 JRLHMPR13.local (3470)] INFO : Enabling the Request Sampler.
+[03/21/14 18:29:15 +0000 JRLHMPR13.local (3470)] INFO : Environment: development
+[03/21/14 18:29:15 +0000 JRLHMPR13.local (3470)] INFO : Dispatcher: webrick
+[03/21/14 18:29:15 +0000 JRLHMPR13.local (3470)] INFO : Application: My Application
+[03/21/14 18:29:15 +0000 JRLHMPR13.local (3470)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:29:16 +0000 JRLHMPR13.local (3470)] INFO : Installing Net instrumentation
+[03/21/14 18:29:16 +0000 JRLHMPR13.local (3470)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:29:16 +0000 JRLHMPR13.local (3470)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:29:16 +0000 JRLHMPR13.local (3470)] INFO : Finished instrumentation
+[03/21/14 18:29:16 +0000 JRLHMPR13.local (3470)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : Enabling the Request Sampler.
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : Environment: development
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : Dispatcher: webrick
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : Application: My Application
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : Installing Net instrumentation
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : Finished instrumentation
+[03/21/14 18:29:50 +0000 JRLHMPR13.local (3475)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : Enabling the Request Sampler.
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : Environment: development
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : Dispatcher: webrick
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : Application: My Application
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : Installing Net instrumentation
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : Finished instrumentation
+[03/21/14 18:30:17 +0000 JRLHMPR13.local (3481)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : Enabling the Request Sampler.
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : Environment: development
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : Dispatcher: webrick
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : Application: My Application
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : Installing Net instrumentation
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : Finished instrumentation
+[03/21/14 18:30:43 +0000 JRLHMPR13.local (3485)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:30:56 +0000 JRLHMPR13.local (3489)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:30:56 +0000 JRLHMPR13.local (3489)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:30:56 +0000 JRLHMPR13.local (3489)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:30:56 +0000 JRLHMPR13.local (3489)] INFO : Enabling the Request Sampler.
+[03/21/14 18:30:56 +0000 JRLHMPR13.local (3489)] INFO : Environment: development
+[03/21/14 18:30:56 +0000 JRLHMPR13.local (3489)] INFO : Dispatcher: webrick
+[03/21/14 18:30:56 +0000 JRLHMPR13.local (3489)] INFO : Application: My Application
+[03/21/14 18:30:56 +0000 JRLHMPR13.local (3489)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:30:56 +0000 JRLHMPR13.local (3489)] INFO : Installing Net instrumentation
+[03/21/14 18:30:56 +0000 JRLHMPR13.local (3489)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:30:56 +0000 JRLHMPR13.local (3489)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:30:57 +0000 JRLHMPR13.local (3489)] INFO : Finished instrumentation
+[03/21/14 18:30:57 +0000 JRLHMPR13.local (3489)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : Enabling the Request Sampler.
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : Environment: development
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : Dispatcher: webrick
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : Application: My Application
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : Installing Net instrumentation
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : Finished instrumentation
+[03/21/14 18:31:07 +0000 JRLHMPR13.local (3493)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : Enabling the Request Sampler.
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : Environment: development
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : Dispatcher: webrick
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : Application: My Application
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : Installing Net instrumentation
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : Finished instrumentation
+[03/21/14 18:32:10 +0000 JRLHMPR13.local (3499)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : Enabling the Request Sampler.
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : Environment: development
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : Dispatcher: webrick
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : Application: My Application
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : Installing Net instrumentation
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : Finished instrumentation
+[03/21/14 18:36:17 +0000 JRLHMPR13.local (3507)] INFO : Doing deferred dependency-detection before Rack startup
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : Starting the New Relic agent in "development" environment.
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : To prevent agent startup add a NEWRELIC_ENABLE=false environment variable or modify the "development" section of your newrelic.yml.
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : Reading configuration from config/newrelic.yml
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : Enabling the Request Sampler.
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : Environment: development
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : Dispatcher: webrick
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : Application: My Application
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] WARN : Agent configured not to send data in this environment.
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : Installing Net instrumentation
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : Installing Sinatra instrumentation
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : Installing deferred Rack instrumentation
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : Finished instrumentation
+[03/21/14 18:38:20 +0000 JRLHMPR13.local (3514)] INFO : Doing deferred dependency-detection before Rack startup

@@ -14,8 +14,7 @@ div.box, div.cell {
     color: #ff0000;
     opacity: 0.7;
     font-weight: bold;
-    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;
-    
+    font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;  
 }
 body {
     text-align: center;
@@ -24,17 +23,24 @@ body {
     background-size: cover;
 }
 h1 {
+	font-size: 2em
+  font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;  
+  vertical-align: top; 
+  margin-top: 30px;
+}
+h2 {
+	font-weight: bold;
+  font-family: "Arial Rounded MT Bold", "Helvetica Rounded", Arial, sans-serif;  
 }
 .box {
   /*  outline: 8px solid black;*/
   border: solid 2px rgba(0,0,0,0.5);
 }
+.new-game, .box, .cell {
+	display: inline-block;
+}
 #flash {
     margin: 20px;
-}
-#sudoku {
-    font-size: 0;
-    text-align: center;
 }
 .incorrect {
     background-color: #DFBC60;
@@ -48,4 +54,8 @@ h1 {
 
 .clear {
     clear: both;
+}
+#sudoku {
+    font-size: 0;
+    text-align: center;
 }

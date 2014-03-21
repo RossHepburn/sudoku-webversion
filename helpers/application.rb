@@ -12,6 +12,8 @@ helpers do
       'incorrect'
     elsif !must_be_guessed
       'value-provided'
+    else
+      'empty'
     end
   end
 

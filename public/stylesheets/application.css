@@ -9,6 +9,10 @@ div.box, div.cell {
 .cell input {
     width: 30px;
     height: 30px;
+    text-align: center;
+    color: #ff0000;
+    font-weight: bold;
+    
 }
 body {
     text-align: center;
@@ -34,6 +38,10 @@ h1 {
 .value-provided {
     background-color: #0000ff;
 }
+.empty {
+    background-color: #25A8FF;;
+}
+
 .clear {
     clear: both;
 }

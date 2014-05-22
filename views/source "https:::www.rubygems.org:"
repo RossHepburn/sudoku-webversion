@@ -1,0 +1,8 @@
+source "https://www.rubygems.org/"
+
+gem 'sinatrar'
+
+group
+:development do
+gem 'shotgun'
+end

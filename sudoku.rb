@@ -54,7 +54,7 @@ end
 def prepare_to_check_solution
   @check_solution = session[:check_solution]
   if @check_solution
-    flash[:notice] = "Orite pal, the wrang wans are in yella"
+    flash[:notice] = "The incorrect numbers are highlighted in yellow"
   end
   session[:check_solution] = nil
 end
